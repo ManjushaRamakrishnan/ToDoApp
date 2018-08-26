@@ -1,0 +1,22 @@
+#todoListSection {
+    width: 550px;
+    margin: 0 auto;
+}
+
+#todoListSection h1 {
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+.list-group {
+    margin-top: 15px;
+    width: 550px;
+}
+
+.list-group-item a{
+    float: right;
+    color: red !important;
+}
+.list-group-item input[type=checkbox]{
+    margin-right: 10px;
+}
