@@ -59,7 +59,7 @@ const AddListItem = () => {
                             <div className = "input-group">
                                 <input type="text" placeholder="Add Item" ref={node => inputElement = node} className="form-control" />
                                 <span className="input-group-btn">
-                                    <button className="btn btn-default btn-primary" type="submit">Go!</button>
+                                    <button className="btn btn-default btn-primary" type="submit">Add</button>
                                 </span>
                             </div>
                         </form>  
